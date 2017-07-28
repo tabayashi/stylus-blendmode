@@ -5,12 +5,12 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tabayashi/blendmode.git"
+    "url": "https://github.com/tabayashi/stylus-blendmode.git"
   },
   "bugs": {
-    "url": "https://github.com/tabayashi/blendmode/issues"
+    "url": "https://github.com/tabayashi/stylus-blendmode/issues"
   },
-  "homepage": "https://github.com/tabayashi/blendmode#readme",
+  "homepage": "https://github.com/tabayashi/stylus-blendmode#readme",
   "keywords": [
     "stylus",
     "plugin",
