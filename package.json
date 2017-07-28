@@ -1,0 +1,31 @@
+{
+  "name": "stylus-blendmode",
+  "version": "0.0.1",
+  "description": "PhotoShop Blendmode",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "kind-of": "^5.0.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "chai": "^4.1.0",
+    "eslint": "^4.3.0",
+    "findup-sync": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-webserver": "^0.9.1",
+    "mocha": "^3.4.2",
+    "sinon": "^2.4.1",
+    "sinon-chai": "^2.12.0",
+    "sinon-test": "^2.0.0",
+    "stylus": "^0.54.5"
+  }
+}
