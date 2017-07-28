@@ -1,1 +1,1 @@
-#blendmode
+# stylus-blendmode
